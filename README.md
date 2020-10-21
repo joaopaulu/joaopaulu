@@ -73,8 +73,14 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=joaopaulu&show_icons=true" alt="joaopaulu"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=joaopaulu&show_icons=true" alt="joaopaulu"/>   
 </p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulu&hide=Objective-C,Java" alt="joaopaulu"/>   
+</p>
+
+
 <!--
 **joaopaulu/joaopaulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
