@@ -1,5 +1,5 @@
 <h1 align="center">Hi dear 👋, I'm João Paulo Lima</h1>
-<h3 align="center">A Web Developer</h3>
+<h3 align="center">A Software Developer</h3>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/joaopaulu)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jptickl@gmail.com)
