@@ -1,16 +1,16 @@
-<h1 align="center">Hi dear 👋, I'm João Paulo Lima</h1>
-<h3 align="center">A Software Developer</h3>
+<h1 align="center">Oi 👋, Eu sou João Paulo Lima</h1>
+<h3 align="center">Desenvolvedor Web</h3>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/joaopaulu)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jptickl@gmail.com)
 
 **Personal Infos:**
 
-- 💼 I’m currently working on [Exército Brasileiro](https://www.eb.mil.br);
-- 🌱 I’m currently studing MBA in Full Stack Developer at [IGTI](https://www.igti.com.br/cursos/mba-em-desenvolvimento-full-stack/);
-- 📫 How to reach me: jptick@gmail.com
+- 💼 Atualmente estou trabalhando no [Exército Brasileiro](https://www.eb.mil.br) como Analista Desenvolvedor Web;
+- 🌱 Atualmente, estou estudando MBA em Full Stack Developer no [IGTI](https://www.igti.com.br/cursos/mba-em-desenvolvimento-full-stack/);
+- 📫 E-mail: jptick@gmail.com
 
-**My favourites tools:**
+**Linguagens de Programação e Ferramentas:**
 
 <p align="center">
 
@@ -72,13 +72,6 @@
 
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=joaopaulu&show_icons=true" alt="joaopaulu"/>   
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulu&hide=Objective-C,Java,CSS,Ruby" alt="joaopaulu"/>   
-</p>
 
 
 <!--
