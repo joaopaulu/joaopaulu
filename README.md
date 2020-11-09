@@ -6,7 +6,7 @@
 
 **Personal Infos:**
 
-- 💼 Atualmente estou trabalhando no [Exército Brasileiro](https://www.eb.mil.br) como Analista Desenvolvedor Web;
+- 💼 Atualmente trabalho no [Exército Brasileiro](https://www.eb.mil.br) como Analista Desenvolvedor Web;
 - 🌱 Atualmente, estou estudando MBA em Full Stack Developer no [IGTI](https://www.igti.com.br/cursos/mba-em-desenvolvimento-full-stack/);
 - 📫 E-mail: jptick@gmail.com
 
@@ -42,8 +42,8 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-plain.svg" alt="php" width="30" height="30"/>
 </a>
 
-<a href="https://cakephp.org/" target="_blank">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/cakephp/cakephp-original.svg" alt="cakephp" width="30" height="30"/>
+<a href="https://nextjs.org/" target="_blank">
+<img src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" alt="nextjs"height="30"/>
 </a>
 
 <a href="https://nodejs.org/en/" target="_blank">
@@ -66,8 +66,8 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-plain.svg" alt="mongodb" width="30" height="30"/> 
 </a>
 
-<a href="https://github.com/" target="_blank">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="github" width="30" height="30"/>  
+<a href="https://graphql.org/" target="_blank">
+<img src="https://banner2.cleanpng.com/20180415/ptq/kisspng-graphql-query-language-representational-state-tran-github-5ad35d73740d43.7369115215238014594754.jpg" alt="graphql" width="30" height="30"/>  
 </a>
 
 </p>
