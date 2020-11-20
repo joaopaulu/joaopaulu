@@ -1,9 +1,11 @@
 <h1 align="center">Oi 👋, Eu sou João Paulo Lima</h1>
 <h3 align="center">Desenvolvedor Web</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-joaopaulolima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-paulo-lima-548288200/)](https://www.linkedin.com/in/jo%C3%A3o-paulo-lima-548288200/)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/joaopaulu)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jptickl@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-paulo-lima-548288200/)](https://www.linkedin.com/in/jo%C3%A3o-paulo-lima-548288200/)
+[![Telegram](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jptick)
+[![Github](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaopaulu)
+[![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:jptickl@gmail.com)
+
 
 **Personal Infos:**
 
