@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou João Paulo Lima</h1>
 <h3 align="center">Desenvolvedor Web</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-joaopaulolima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-paulo-lima-548288200/)](https://www.linkedin.com/in/danielobara/)
+[![Linkedin Badge](https://img.shields.io/badge/-joaopaulolima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-paulo-lima-548288200/)](https://www.linkedin.com/in/jo%C3%A3o-paulo-lima-548288200/)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/joaopaulu)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jptickl@gmail.com)
 
