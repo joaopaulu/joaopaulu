@@ -45,6 +45,12 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-plain.svg" alt="php" width="30" height="30"/>
 </a>
 
+
+<a href="https://www.oracle.com/br/java/technologies/" target="_blank">  
+  <img src="https://devicon.dev/devicon.git/icons/java/java-original-wordmark.svg" alt="java"  width="30" height="30"/>
+</a>
+
+
 <a href="https://nextjs.org/" target="_blank">
 <img src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" alt="nextjs"height="30"/>
 </a>
