@@ -7,13 +7,13 @@
 [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:jptickl@gmail.com)
 
 
-**Personal Infos:**
+## Personal Infos:
 
 - 💼 Atualmente trabalho no [Exército Brasileiro](https://www.eb.mil.br) como Analista Desenvolvedor Web;
 - 🌱 Atualmente, estou estudando MBA em Full Stack Developer no [IGTI](https://www.igti.com.br/cursos/mba-em-desenvolvimento-full-stack/);
 - 📫 E-mail: jptick@gmail.com
 
-**Linguagens de Programação e Ferramentas:**
+## 💻 Technologies & Tools
 
 <p align="center">
 
@@ -50,7 +50,6 @@
   <img src="https://devicon.dev/devicon.git/icons/java/java-original-wordmark.svg" alt="java"  width="30" height="30"/>
 </a>
 
-
 <a href="https://nextjs.org/" target="_blank">
 <img src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" alt="nextjs"height="30"/>
 </a>
@@ -81,7 +80,12 @@
 
 </p>
 
+## ⭐ GitHub Stats
 
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=joaopaulu&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulu&hide=ruby,css,html&theme=tokyonight">
+</p>
 
 <!--
 **joaopaulu/joaopaulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
