@@ -10,7 +10,7 @@
 ## Personal Infos:
 
 - 💼 Atualmente trabalho no [Exército Brasileiro](https://www.eb.mil.br) como Analista Desenvolvedor Web;
-- 🌱 Atualmente, estou estudando MBA em Full Stack Developer no [IGTI](https://www.igti.com.br/cursos/mba-em-desenvolvimento-full-stack/);
+- 🌱 Atualmente, estou estudando MBA em Arquitetura de Software no [IGTI](https://www.igti.com.br/cursos/mba-em-desenvolvimento-full-stack/);
 - 📫 E-mail: jptick@gmail.com
 
 ## 💻 Technologies & Tools
