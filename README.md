@@ -17,32 +17,32 @@
 
 <p align="center">
  
-<img height="25" src="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-<img height="25" src="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /> 
-<img height="25" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
-<img height="25" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-<img height="25" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-<img height="25" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
-<img height="25" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img height="25" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
-<img height="25" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img height="25" src="https://img.shields.io/badge/graphql-%23FF69D4.svg?&style=for-the-badge&logo=graphql&logoColor=white"/>
+<img height="25" src="https://img.shields.io/badge/-HTML5-E34F26.svg?&style=flat-square&logo=html5&logoColor=white" />
+<img height="25" src="https://img.shields.io/badge/-CSS3-1572B6.svg?&style=flat-square&logo=css3&logoColor=white" /> 
+<img height="25" src="https://img.shields.io/badge/-JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black"/>
+<img height="25" src="https://img.shields.io/badge/-Typescript%20-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white"/>
+<img height="25" src="https://img.shields.io/badge/-Node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white"/>
+<img height="25" src="https://img.shields.io/badge/-Express.js%20-%23404d59.svg?&style=flat-square"/>
+<img height="25" src="https://img.shields.io/badge/-React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB"/>
+<img height="25" src="https://img.shields.io/badge/-Angular%20-%23DD0031.svg?&style=flat-square&logo=angular&logoColor=white"/>
+<img height="25" src="https://img.shields.io/badge/-Bootstrap%20-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white"/>
+<img height="25" src="https://img.shields.io/badge/-Graphql-%23FF69D4.svg?&style=flat-square&logo=graphql&logoColor=white"/>
 
 <img height="25" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java" />
 <img height="25" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" /> 
-<img height="25" src="https://img.shields.io/badge/php-4da6ff.svg?&style=for-the-badge&logo=php&logoColor=white" />
+<img height="25" src="https://img.shields.io/badge/-PHP-4da6ff.svg?&style=flat-square&logo=php&logoColor=white" />
 
-<img height="25" src="https://img.shields.io/badge/postgresql-336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
-<img height="25" src="https://img.shields.io/badge/sqlserver-CC2927.svg?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-<img height="25" src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
-<img height="25" src="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white" />
-<img height="25" src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white" />
-<img height="25" src="https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white" />
-<img height="25" src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
+<img height="25" src="https://img.shields.io/badge/-Postgresql-336791.svg?&style=flat-square&logo=postgresql&logoColor=white" />
+<img height="25" src="https://img.shields.io/badge/-Sql%20Server-CC2927.svg?&style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+<img height="25" src="https://img.shields.io/badge/-MySQL-4479A1.svg?&style=flat-square&logo=mysql&logoColor=white" />
+<img height="25" src="https://img.shields.io/badge/-MariaDB-003545.svg?&style=flat-square&logo=MariaDB&logoColor=white" />
+<img height="25" src="https://img.shields.io/badge/-MongoDB-47A248.svg?&style=flat-square&logo=MongoDB&logoColor=white" />
+<img height="25" src="https://img.shields.io/badge/-Oracle-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white" />
+<img height="25" src="https://img.shields.io/badge/-Ubuntu-E95420.svg?&style=flat-square&logo=Ubuntu&logoColor=white" />
 
 <img height="25" src="https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white" /> 
 <img height="25" src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" />
-<img height="25" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />  
+<img height="25" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 
 </p>
 
