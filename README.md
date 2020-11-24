@@ -16,67 +16,33 @@
 ## 💻 Technologies & Tools
 
 <p align="center">
+ 
+<img height="25" src="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+<img height="25" src="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /> 
+<img height="25" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+<img height="25" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+<img height="25" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img height="25" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
+<img height="25" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img height="25" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
+<img height="25" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img height="25" src="https://img.shields.io/badge/graphql-%23FF69D4.svg?&style=for-the-badge&logo=graphql&logoColor=white"/>
 
-<a href="https://ubuntu.com/" target="_blank">  
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain.svg" alt="linux"  width="30" height="30"/>
-</a>
+<img height="25" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java" />
+<img height="25" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" /> 
+<img height="25" src="https://img.shields.io/badge/php-4da6ff.svg?&style=for-the-badge&logo=php&logoColor=white" />
 
-<a href="https://www.docker.com/" target="_blank">  
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-plain.svg" alt="docker"  width="30" height="30"/>
-</a>
+<img height="25" src="https://img.shields.io/badge/postgresql-336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
+<img height="25" src="https://img.shields.io/badge/sqlserver-CC2927.svg?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+<img height="25" src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
+<img height="25" src="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white" />
+<img height="25" src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white" />
+<img height="25" src="https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white" />
+<img height="25" src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5" target="_blank"> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain.svg" alt="html5"  width="30" height="30"/>
-</a>
-
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain.svg" alt="css3"  width="30" height="30"/>
-</a>
-
-<a href="https://www.javascript.com/" target="_blank"> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
-</a>
-
-<a href="https://www.typescriptlang.org/" target="_blank"> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
-</a>
-
-<a href="https://www.php.net/" target="_blank">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-plain.svg" alt="php" width="30" height="30"/>
-</a>
-
-
-<a href="https://www.oracle.com/br/java/technologies/" target="_blank">  
-  <img src="https://devicon.dev/devicon.git/icons/java/java-original-wordmark.svg" alt="java"  width="30" height="30"/>
-</a>
-
-<a href="https://nextjs.org/" target="_blank">
-<img src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" alt="nextjs"height="30"/>
-</a>
-
-<a href="https://nodejs.org/en/" target="_blank">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
-</a>
-
-<a href="https://pt-br.reactjs.org/" target="_blank">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react" width="30" height="30"/>
-</a>
-
-<a href="https://www.postgresql.org/" target="_blank">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="30" height="30"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-plain.svg" alt="mongodb" width="30" height="30"/> 
-</a>
-
-<a href="https://graphql.org/" target="_blank">
-<img src="https://banner2.cleanpng.com/20180415/ptq/kisspng-graphql-query-language-representational-state-tran-github-5ad35d73740d43.7369115215238014594754.jpg" alt="graphql" width="30" height="30"/>  
-</a>
+<img height="25" src="https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white" /> 
+<img height="25" src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" />
+<img height="25" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />  
 
 </p>
 
