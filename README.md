@@ -1,5 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou João Paulo Lima</h1>
-<h3 align="center">Desenvolvedor Web</h3>
+<h1 align="center">Hi 👋, I'm João Paulo Lima</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-paulo-lima-548288200/)](https://www.linkedin.com/in/jo%C3%A3o-paulo-lima-548288200/)
 [![Telegram](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jptick)
@@ -9,8 +8,8 @@
 
 ## Personal Infos:
 
-- 💼 Atualmente trabalho no [Exército Brasileiro](https://www.eb.mil.br) como Analista Desenvolvedor Web;
-- 🌱 Atualmente, estou estudando Java e Angular, cursando MBA em Desenvolvimento Full Stack no [IGTI](https://www.igti.com.br/cursos/mba-em-desenvolvimento-full-stack/);
+- 💼 I currently work at [Brazilian Army](https://www.eb.mil.br) as a Web Developer Analyst;
+- 🌱 I am currently studying Java with Springboot and Angular, studying MBA in Full Stack Development at [IGTI](https://www.igti.com.br/cursos/mba-em-desenvolvimento-full-stack/);
 - 📫 E-mail: jptick@gmail.com
 
 ## 💻 Technologies & Tools
