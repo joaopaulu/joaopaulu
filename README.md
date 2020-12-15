@@ -25,6 +25,7 @@
 
 <img height="25" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java" />
 <img height="25" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" /> 
+<img height="25" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular" /> 
 <img height="25" src="https://img.shields.io/badge/-PHP-4da6ff.svg?&style=flat-square&logo=php&logoColor=white" />
 
 <img height="25" src="https://img.shields.io/badge/-Postgresql-336791.svg?&style=flat-square&logo=postgresql&logoColor=white" />
