@@ -9,7 +9,7 @@
 ## Personal Infos:
 
 - 💼 I currently work at [Brazilian Army](https://www.eb.mil.br) as a Web Developer Analyst;
-- 🌱 I am currently studying Java with Springboot and Angular, studying MBA in Full Stack Development at [IGTI](https://www.igti.com.br/cursos/mba-em-desenvolvimento-full-stack/);
+- 🌱 I am currently studying Java with Springboot, JavaScript ecosystem and studying MBA in Full Stack Development at [IGTI](https://www.igti.com.br/cursos/mba-em-desenvolvimento-full-stack/);
 - 📫 E-mail: jptick@gmail.com
 
 ## 💻 Technologies & Tools
