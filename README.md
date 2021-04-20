@@ -45,7 +45,7 @@
 ### Let's connect ? 🤝
 
 <p align="left">
-<a href="https://www.linkedin.com/in/joaopaulu/"><img src="https://img.shields.io/badge/-guillaumefalourd-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/joaopaulu/"><img src="https://img.shields.io/badge/-joaopaulu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:jptick@gmail.com"><img src="https://img.shields.io/badge/-jptick@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
