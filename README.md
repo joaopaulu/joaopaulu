@@ -1,18 +1,7 @@
-<h1 align="center">Hi 👋, I'm João Paulo Lima</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopaulu/)](https://www.linkedin.com/in/joaopaulu/)
-[![Telegram](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jptick)
-[![Github](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaopaulu)
-[![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:jptickl@gmail.com)
+### I'm João Paulo Lima Software Developer working at [Exército Brasileiro](http://www.eb.mil.br).
 
-
-## Personal Infos:
-
-- 💼 I currently work at [Brazilian Army](https://www.eb.mil.br) as a Web Developer Analyst;
-- 🌱 I am currently studying Java with Springboot, JavaScript ecosystem and studying MBA in Full Stack Development at [IGTI](https://www.igti.com.br/cursos/mba-em-desenvolvimento-full-stack/);
-- 📫 E-mail: jptick@gmail.com
-
-## 💻 Technologies & Tools
+### 💻 Languages & Tools 🛠
 
 <p align="center">
  
@@ -21,7 +10,6 @@
 <img height="25" src="https://img.shields.io/badge/-JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black"/>
 <img height="25" src="https://img.shields.io/badge/-Typescript%20-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white"/>
 <img height="25" src="https://img.shields.io/badge/-React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB"/>
-<img height="25" src="https://img.shields.io/badge/-React%20Native-2C2255.svg?&style=flat-square&logo=react&logoColor=white"/>
 <img height="25" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular"/>
 
 
@@ -40,24 +28,24 @@
 
 </p>
 
-## ⭐ GitHub Stats
+### Analytics ⚙️
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=joaopaulu&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulu&hide=ruby,css,html,scss&theme=tokyonight">
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=joaopaulu)
+
+<p align="left">
+<a href="https://github.com/joaopaulu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=joaopaulu&count_private=true&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulu&layout=compact&langs_count=8"/>
+</a>
 </p>
 
-<!--
-**joaopaulu/joaopaulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+### Let's connect ? 🤝
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+<p align="left">
+<a href="https://www.linkedin.com/in/joaopaulu/"><img src="https://img.shields.io/badge/-guillaumefalourd-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:jptick@gmail.com"><img src="https://img.shields.io/badge/-jptick@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
+
