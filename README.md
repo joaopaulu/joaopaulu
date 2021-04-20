@@ -30,22 +30,18 @@
 
 ### Analytics ⚙️
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=joaopaulu)
-
-<p align="left">
-<a href="https://github.com/joaopaulu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=joaopaulu&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulu&layout=compact&langs_count=8"/>
-</a>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=joaopaulu&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulu&hide=ruby,css,html,scss&theme=tokyonight">
 </p>
 
-<img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=joaopaulu)
 
 
 ### Let's connect ? 🤝
 
 <p align="left">
-<a href="https://www.linkedin.com/in/joaopaulu/"><img src="https://img.shields.io/badge/-joaopaulu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/joaopaulu/" target="_blank"><img src="https://img.shields.io/badge/-joaopaulu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:jptick@gmail.com"><img src="https://img.shields.io/badge/-jptick@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
