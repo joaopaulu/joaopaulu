@@ -12,7 +12,7 @@
 <img height="25" src="https://img.shields.io/badge/-HTML5-E34F26.svg?&style=flat-square&logo=html5&logoColor=white" />
 <img height="25" src="https://img.shields.io/badge/-CSS3-1572B6.svg?&style=flat-square&logo=css3&logoColor=white" /> 
 <img height="25" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-<img height="25" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" />
+<img height="25" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
 </p> 
 
 <p>
@@ -41,16 +41,13 @@
 <img height="25" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=joaopaulu)
 
 ### Analytics ⚙️
 <p>
   <img src = "https://github-readme-stats.vercel.app/api?username=joaopaulu&show_icons=true&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulu&hide=ruby,css,html,scss">
 </p>
-
-
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=joaopaulu)
-
 
 ### Let's connect ? 🤝
 
