@@ -42,7 +42,7 @@
 ### Analytics ⚙️
 <p>
   <img src = "https://github-readme-stats.vercel.app/api?username=joaopaulu&show_icons=true&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulu&hide=ruby,css,html,scss">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulu&hide=ruby,css,html,scss,Objective-C,Starlark,Shell,Handlebars">
 </p>
 
 ### Let's connect ? 🤝
