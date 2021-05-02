@@ -14,9 +14,7 @@
 <img height="25" src="https://img.shields.io/badge/-JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black"/>
 <img height="25" src="https://img.shields.io/badge/-Typescript%20-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white"/>
 <img height="25" src="https://img.shields.io/badge/-React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB"/>
-</p> 
 
-<p>
 <img height="25" src="https://img.shields.io/badge/-Postgresql-336791.svg?&style=flat-square&logo=postgresql&logoColor=white" />
 <img height="25" src="https://img.shields.io/badge/-MySQL-4479A1.svg?&style=flat-square&logo=mysql&logoColor=white" />  
 <img height="25" src="https://img.shields.io/badge/-MongoDB-47A248.svg?&style=flat-square&logo=MongoDB&logoColor=white" />
