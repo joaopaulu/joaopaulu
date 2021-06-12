@@ -35,9 +35,6 @@
 <img height="25" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p> 
 
-
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=joaopaulu)
-
 ### Analytics ⚙️
 <p>
   <img src = "https://github-readme-stats.vercel.app/api?username=joaopaulu&show_icons=true&line_height=27">
