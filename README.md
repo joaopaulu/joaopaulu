@@ -1,5 +1,5 @@
 
-### I'm João Paulo Lima Software Developer working at [Exército Brasileiro](http://www.eb.mil.br).
+### I'm João Paulo Lima Software Developer Working at [Exército Brasileiro](http://www.eb.mil.br).
 
 ### 💻 Languages & Tools 🛠
 
