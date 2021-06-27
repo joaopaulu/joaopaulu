@@ -36,15 +36,17 @@
 </p> 
 
 ### Analytics ⚙️
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaopaulu" />  
+</p> 
   
 <p>  
   <img src = "https://github-readme-stats.vercel.app/api?username=joaopaulu&show_icons=true&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulu&hide=ruby,css,html,scss,Objective-C,Starlark,Shell,Handlebars">
 </p>
 
-<p>
-  <img width="82%"  src="https://github-readme-streak-stats.herokuapp.com/?user=joaopaulu" />  
-</p> 
+
 
 ### Let's connect ? 🤝
 
