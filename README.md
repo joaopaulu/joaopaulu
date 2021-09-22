@@ -34,9 +34,9 @@
 
 ### Analytics ⚙️
 
-<!--p>
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaopaulu" />  
-</p-->
+</p>
   
 <p>  
   <img src = "https://github-readme-stats.vercel.app/api?username=joaopaulu&show_icons=true&line_height=27">
