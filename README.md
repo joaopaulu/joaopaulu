@@ -8,7 +8,9 @@
 <img height="25" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
 <img height="25" src="https://img.shields.io/badge/-React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB"/>
 <img height="25" src="https://img.shields.io/badge/-Typescript%20-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white"/>
-  <img height="25" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs"/>
+<!--img height="25" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs"/-->
+<img height="25" src="https://img.shields.io/badge/-Angular%20-DD0031.svg?&style=flat-square&logo=angular&logoColor=white"/>
+  
 </p>
 
 <p>
@@ -16,6 +18,7 @@
 <img height="25" src="https://img.shields.io/badge/-CSS 3-1572B6.svg?&style=flat-square&logo=css3&logoColor=white" /> 
 <img height="25" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />  
 <img height="25" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
+<img height="25" src="https://img.shields.io/badge/-PHP-192a56?style=flat-square&logo=php&logoColor=white" />
 </p>
 
 <p>
