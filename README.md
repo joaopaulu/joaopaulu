@@ -1,39 +1,25 @@
+### Sobre
+ 🚀 Desenvolvedor FullStack Java.
+ <br> 🎓 Formado em MBA em Desenvolvimento FullStack e Graduado em Sistemas de Informação.
+ <br> 📚 Java, SpringBoot, JPA, Postgres, MySQL, API REST, TypeScript, React, Angular, Clean Code.
 
-### I'm João Paulo Lima Software Developer Working at [Exército Brasileiro](http://www.eb.mil.br).
-
-### 💻 Languages & Tools 🛠
-
-<p>
-<img height="25" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java" />
-<img height="25" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-<img height="25" src="https://img.shields.io/badge/-Typescript%20-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white"/>
-<img height="25" src="https://img.shields.io/badge/-React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB"/>
-<!--img height="25" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs"/-->
-<!--img height="25" src="https://img.shields.io/badge/-Angular%20-DD0031.svg?&style=flat-square&logo=angular&logoColor=white"/-->
-  
-</p>
-
-<p>
-<img height="25" src="https://img.shields.io/badge/-HTML 5-E34F26.svg?&style=flat-square&logo=html5&logoColor=white" />
-<img height="25" src="https://img.shields.io/badge/-CSS 3-1572B6.svg?&style=flat-square&logo=css3&logoColor=white" /> 
-<img height="25" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />  
-<img height="25" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
-<!--img height="25" src="https://img.shields.io/badge/-PHP-192a56?style=flat-square&logo=php&logoColor=white" /-->
-</p>
-
-<p>
-<img height="25" src="https://img.shields.io/badge/-Postgresql-336791.svg?&style=flat-square&logo=postgresql&logoColor=white" />
-<img height="25" src="https://img.shields.io/badge/-MySQL-4479A1.svg?&style=flat-square&logo=mysql&logoColor=white" /> 
-<!--img height="25" src="https://img.shields.io/badge/SQLite-008ad2.svg?&style=flat-square&logo=sqlite&logoColor=white" /-->  
-<img height="25" src="https://img.shields.io/badge/-MongoDB-47A248.svg?&style=flat-square&logo=MongoDB&logoColor=white" />
-</p>
-
-<p>
-<img height="25" src="https://img.shields.io/badge/-Insomnia-5700ce?style=flat-square&logo=insomnia" />
-<img height="25" src="https://img.shields.io/badge/-IntelliJ-black?style=flat-square&logo=intellij-idea&logoColor=white" /> 
-<img height="25" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-<img height="25" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p> 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=joaopaulu)
+  <div align="center">
+ 
+ ### 💻 Languages & Tools 🛠
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Spring" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="TypeScript" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="React" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" alt="Angular" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
+  <img align="center" alt="Postgres" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="MySQL" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="MongoDB" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Docker" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <img align="center" alt="VsCode" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="IDEA" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
+</div>
 
 ### Analytics ⚙️
 
