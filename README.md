@@ -1,38 +1,28 @@
 ### Sobre
  🚀 Desenvolvedor Java.
- <br> 🎓 Formado em MBA em Desenvolvimento FullStack e Graduado em Sistemas de Informação.
+ <br> 🎓 Formado em Sistemas de Informação, especialização MBA em Desenvolvimento FullStack.
  <br> 📚 Java, SpringBoot, JPA, Postgres, MySQL, API REST, TypeScript, React, Angular, Clean Code.
 
 
 
 ### 💻 Languages & Tools 🛠
-<div align="center">
+
  <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Spring" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="TypeScript" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="React" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="Angular" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
-  <img align="center" alt="Postgres" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="MySQL" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="MongoDB" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
-  
+  <img align="center" alt="Angular" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">  
   <img align="center" alt="VsCode" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="IDEA" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
-</div>
+  <img align="center" alt="Postgres" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="MySQL" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
 
 ### Analytics ⚙️
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaopaulu" />  
-</p>
-  
 <p>  
-  <img src = "https://github-readme-stats.vercel.app/api?username=joaopaulu&show_icons=true&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulu&hide=ruby,css,html,scss,Objective-C,Starlark,Shell,Handlebars">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=joaopaulu&theme=ayu-light&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt-BR" />  
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulu&hide=ruby,css,html,scss,Objective-C,Starlark,Shell,Handlebars&locale=pt-BR&theme=vue&hide_border=true&bg_colog=#fafafa">
 </p>
-
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=joaopaulu)
 
 ### Let's connect ? 🤝
 
