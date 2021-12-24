@@ -1,7 +1,7 @@
 ### Sobre
  🚀 Desenvolvedor Java.
  <br> 🎓 Formado em Sistemas de Informação, especialização MBA em Desenvolvimento FullStack.
- <br> 📚 Java, SpringBoot, JPA, Postgres, MySQL, API REST, TypeScript, React, Angular, Clean Code.
+ <br> 📚 Java, JakartaEE, EJB, SpringBoot, JPA, Postgres, MySQL, API REST, TypeScript, React, Angular, Clean Code.
 
 
 
