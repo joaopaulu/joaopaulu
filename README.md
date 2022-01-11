@@ -28,7 +28,7 @@
 
 <a href="https://www.linkedin.com/in/joaopaulu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:jptick@gmail.com"><img src="https://img.shields.io/badge/-jptick@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="wa.me/5561981600679" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-00e676?style=flat&logo=Whatsapp&logoColor=white"/></a>
+<a href="https://wa.me/5561981600679" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-00e676?style=flat&logo=Whatsapp&logoColor=white"/></a>
 
 
 
