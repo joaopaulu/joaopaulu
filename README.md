@@ -1,6 +1,6 @@
 ### 💻 Sobre
- 🚀 Desenvolvedor Java.
- <br> 🎓 Formado em Sistemas de Informação, especialização MBA em Desenvolvimento FullStack.
+ 🚀 Full Stack Developer.
+ <br> 🎓 Graduated in Information Systems, MBA specialization in FullStack Development.
  <br> 📚 Java, JakartaEE, EJB, SpringBoot, JPA, Postgres, MySQL, API REST, TypeScript, React, Angular, Clean Code.
 
 
@@ -20,7 +20,7 @@
 
 ### ⚙️ Info 
 <p>  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=joaopaulu&theme=ayu-light&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt-BR" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=joaopaulu&theme=ayu-light&hide_border=true&date_format=j%20M%5B%20Y%5D" />  
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulu&hide=ruby,css,html,scss,Objective-C,Starlark,Shell,Handlebars&locale=pt-BR&theme=vue&hide_border=true&bg_colog=#fafafa">
 </p>
 
