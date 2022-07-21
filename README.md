@@ -21,8 +21,8 @@
 
 ### ⚙️ Info 
 <p>  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=joaopaulu&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" />  
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulu&hide=ruby,css,html,scss,Objective-C,Starlark,Shell,Handlebars&locale=en&theme=react&hide_border=true&bg_colog=#fafafa">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=joaopaulu&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&background=22272E" />  
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulu&hide=ruby,css,html,scss,Objective-C,Starlark,Shell,Handlebars&locale=en&theme=react&hide_border=true&bg_color=22272E">
 </p>
 
 ### 🤝 Contacts
