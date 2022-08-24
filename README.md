@@ -19,10 +19,10 @@
   <img align="center" alt="Postgres" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="MySQL" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   </div><br>
-<div align="center">
+<div>
 <a href="https://github.com/joaopaulu">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulu&layout=compact&langs_count=2&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopaulu&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulu&layout=compact&langs_count=2&theme=dark"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api?username=joaopaulu&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
 </div>  
 
 ### 🤝 Contacts
