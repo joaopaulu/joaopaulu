@@ -18,10 +18,15 @@
   <img align="center" alt="IDEA" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
   <img align="center" alt="Postgres" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="MySQL" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  </div><br>
+<div align="center">
+<a href="https://github.com/joaopaulu">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulu&layout=compact&langs_count=2&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopaulu&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
+</div>  
 
 ### 🤝 Contacts
 
-<a href="https://www.linkedin.com/in/joaopaulu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:jptick@gmail.com"><img src="https://img.shields.io/badge/-jptick@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://wa.me/5561981600679" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-00e676?style=flat&logo=Whatsapp&logoColor=white"/></a>
 
