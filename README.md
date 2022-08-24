@@ -21,8 +21,8 @@
   </div><br>
 <div>
 <a href="https://github.com/joaopaulu">
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulu&layout=compact&langs_count=2&theme=dark"/>
-<img height="120em" src="https://github-readme-stats.vercel.app/api?username=joaopaulu&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulu&layout=compact&langs_count=2&theme=dark"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=joaopaulu&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
 </div>  
 
 ### 🤝 Contacts
