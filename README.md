@@ -1,23 +1,24 @@
 ### 💻 About
- 🚀 Full Stack Developer.
+ 🚀 Software Developer.
  <br> 🎓 Graduated in Information Systems, MBA specialization in FullStack Development.
- <br> 📚 Java, JakartaEE, EJB, SpringBoot, JPA, Postgres, MySQL, API REST, TypeScript, Angular, React, Clean Code.
+ <br> 📚 Java, JakartaEE, EJB, SpringBoot, JPA, MongoDB, MySQL, Oracle DB, API REST, Docker, AWS, Clean Code.
 
 
 
 ### 🛠 Languages & Tools 
 
  <div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Spring" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="TypeScript" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Angular" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
-  <img align="center" alt="React" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-   
+  <img align="center" alt="Java" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Spring" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+  
+  <img align="center" alt="MongoDB" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="MySQL" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Oracle" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="VsCode" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="IDEA" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
-  <img align="center" alt="Postgres" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="MySQL" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Docker" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Docker" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
+   
   </div><br>
 <div>
 <a href="https://github.com/joaopaulu">
