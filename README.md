@@ -13,12 +13,12 @@
   
   <img align="center" alt="MongoDB" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="MySQL" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Oracle" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
-  <img align="center" alt="VsCode" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  
+  
   <img align="center" alt="IDEA" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
   <img align="center" alt="Docker" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Docker" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
-   
+  <img align="center" alt="AWS" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="Azure" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"> 
   </div><br>
 <div>
 <a href="https://github.com/joaopaulu">
