@@ -1,7 +1,7 @@
 ### 💻 About
  🚀 Software Developer.
  <br> 🎓 Graduated in Information Systems, MBA specialization in FullStack Development.
- <br> 📚 Java, JakartaEE, EJB, SpringBoot, JPA, MongoDB, MySQL, Oracle DB, API REST, Docker, AWS, Clean Code.
+ <br> 📚 Java, JakartaEE, EJB, SpringBoot, JPA, MongoDB, MySQL, API REST, Docker, AWS, Azure, Clean Code.
 
 
 
@@ -10,11 +10,11 @@
  <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+  <img align="center" alt="STypeScript" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
   
-  <img align="center" alt="MongoDB" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="MySQL" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  
-  
+  <img align="center" alt="MySQL" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
+  <img align="center" alt="MongoDB" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg">
+    
   <img align="center" alt="IDEA" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
   <img align="center" alt="Docker" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   <img align="center" alt="AWS" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
