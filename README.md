@@ -11,14 +11,14 @@
   <img align="center" alt="Java" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
   <img align="center" alt="TypeScript" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="Angular" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
+  <!--img align="center" alt="React" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"-->
+  <!--img align="center" alt="Angular" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"-->
   
   <img align="center" alt="MySQL" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
   <img align="center" alt="MongoDB" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg">
     
   <img align="center" alt="IDEA" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
-  <!--img align="center" alt="Docker" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"-->
+  <img align="center" alt="Docker" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   <img align="center" alt="AWS" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
  
   </div><br>
