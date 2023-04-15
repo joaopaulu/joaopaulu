@@ -10,7 +10,10 @@
  <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-  <img align="center" alt="TypeScript" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
+ <img align="center" alt="Spring" height="80" width="80" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png">
+ <img align="center" alt="Spring" height="80" width="80" src="https://user-images.githubusercontent.com/25181517/183892781-61ed6416-4a2c-4061-8240-e6a23e1d7b09.png">
+ 
+  <!--img align="center" alt="TypeScript" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"-->
   <!--img align="center" alt="React" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"-->
   <!--img align="center" alt="Angular" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"-->
   
